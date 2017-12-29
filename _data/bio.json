@@ -36,6 +36,29 @@
         "software"
       ]
     },
+    {
+      "name": "software design",
+      "keywords": [
+        "design",
+        "UX",
+        "UI"
+      ]
+    },
+    {
+      "name": "video games",
+      "keywords": [
+        "LoL",
+        "RPG",
+        "eSports"
+      ]
+    },
+    {
+      "name": "technology",
+      "keywords": [
+        "virtual reality",
+        "medtech"
+      ]
+    },
   ],
   "skills": [
     {
@@ -46,7 +69,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
+        "PHP",
         "Common Lisp"
       ]
     },
@@ -55,10 +78,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
