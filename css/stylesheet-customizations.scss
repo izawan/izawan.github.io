@@ -25,9 +25,9 @@ body {
 }
 
 #links a:visited {
-  color: yellow;
+  color: darken(yellow, 10%);
 }
 
 #links a:hover {
-  color: darken(green, 10%);
+  color: darken(green, 5%);
 }
