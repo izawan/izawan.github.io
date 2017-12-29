@@ -20,14 +20,14 @@ body {
   color: darken(lightsteelblue, 20%);
 }
 
-#links:link {
+#links a:link {
   color: green;
 }
 
-#links:visited {
+#links: a:visited {
   color: yellow;
 }
 
-#links:hover {
-  color: darken(green, 20%);
+#links a:hover {
+  color: darken(green, 10%);
 }
