@@ -13,7 +13,7 @@ labels:
 summary: An educational virtual walkthrough depicting the effects of an ischemic stroke on the brain through virtual reality.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/clot.jpeg">
 </div>
 
