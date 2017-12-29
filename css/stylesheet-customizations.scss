@@ -19,3 +19,15 @@ body {
 .icon-color {
   color: darken(lightsteelblue, 20%);
 }
+
+#links:link {
+  color: green;
+}
+
+#links:visited {
+  color: yellow;
+}
+
+#links:hover {
+  color: darken(green, 20%);
+}
