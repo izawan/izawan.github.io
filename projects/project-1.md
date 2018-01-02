@@ -17,5 +17,5 @@ Brain VR is like an episode of the popular childrenʻs educational series "The M
 
 Immersion has been proven to increase retention in students, making virtual reality the perfect tool for enhancing learning experiences. The ability to shrink down to the size of microscopic molecules and explore an accurately simulated environment is simply amazing. There is no better way to learn than through real-world experiences. Reading a textbook can be boring, and often fails to deliver a clear understanding of the topic. With that said, maybe you should just watch the video for yourself.
 
-[<img class="ui large bottom floated rounded image" src="../images/clot.jpeg">](https://youtu.be/6pEafRmmyGU)
+[<img class="ui image" src="../images/clot.jpeg">](https://youtu.be/6pEafRmmyGU)
 
