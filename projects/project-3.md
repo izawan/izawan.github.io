@@ -27,9 +27,7 @@ After that, we started off with a few planning meetings for SIEGE, discussing wo
 I had to work closely with the person working on the entities/objects, since I had to figure out what object functions I could use to pull data from. There were definitely some big miscommunications initially. We learned the importance of thorough documentation the hard way.
 
 In the end, we completed the game with full controller support, and even unique AI behavior. Iʻm pretty happy with the outcome, since at the time, I had little to no experience with Javascript or HTML. It was a great learning experience on how to use Github (especially collaboratively), the importance of communication, and just general Javascript and HTML.
-<div id=projectLinks>
-[Click here to play!](https://izawan.github.io/SIEGE/)
-</div>
+<div id=projectLinks>[Click here to play!](https://izawan.github.io/SIEGE/)</div>
 <b>Controls</b>
 
 <u>Player 1 (left side)</u><br>
@@ -42,4 +40,4 @@ I - Move up<br>
 K - Move down<br>
 J - Shoot<br>
 
-<a href="https://github.com/uhmlavalab/SIEGE"><i class="large github icon"></i>uhmlavalab/SIEGE</a>
+<div id=projectLinks><a href="https://github.com/uhmlavalab/SIEGE"><i class="large github icon"></i>uhmlavalab/SIEGE</a></div>
