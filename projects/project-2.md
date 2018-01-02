@@ -21,4 +21,4 @@ Given access to the database, I modernized the database from the very outdated F
 
 Using Google Forms, members can easily submit their proceedings for the conference in a clean form that will automatically be submitted into the database to await approval. Also, the search form and results pages were redesigned, making them simpler and mobile-friendly.
  
-<div class=textlinks><a href="http://kokua.crdg.hawaii.edu/hera/heraForm.html">Source</a></div>
+<div class="textlinks"><a href="http://kokua.crdg.hawaii.edu/hera/heraForm.html">Source</a></div>
