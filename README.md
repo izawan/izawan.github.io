@@ -1,7 +1,5 @@
-# Technical Portfolio
+# Nickʻs Technical Portfolio
 
-This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
-
-See the quick start guide for instructions on how to tailor the template to your own needs.
+Welcome to my repository for my technical portfolio! This was created using a template from [TechFolio](http://techfolios.github.io), modified to fit my own needs.
 
 
