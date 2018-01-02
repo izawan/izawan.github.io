@@ -11,7 +11,7 @@ labels:
   - Konva
   - Video Games
   - Collaboration
-summary: SIEGE - Space Invaders: Educational Group Exercise
+summary: SIEGE Space Invaders: Educational Group Exercise
 ---
 
 [<img class="ui medium right floated rounded image" src="../images/heralogo.png">](http://kokua.crdg.hawaii.edu/hera/heraForm.html)
