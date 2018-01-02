@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hera.jpg
+image: images/heralogo.png
 title: HERA Search
 permalink: projects/hera
 date: 2017
@@ -13,7 +13,7 @@ labels:
 summary: A modernized search form page on the HERA site.
 ---
 
-[<img class="ui medium right floated rounded image" src="../images/hera.jpg">](http://kokua.crdg.hawaii.edu/hera/heraForm.html)
+[<img class="ui medium right floated rounded image" src="../images/heralogo.png">](http://kokua.crdg.hawaii.edu/hera/heraForm.html)
 
 HERA is the Hawai‘i Educational Research Association, a group to provide a medium in which education researchers, teachers, and administrators can share findings and discuss issues in a cumulative effort to improve current educational practices. Among other things, HERA holds an annual conference in which members may showcase recent publications.
 
