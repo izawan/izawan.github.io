@@ -11,7 +11,7 @@ labels:
   - Konva
   - video game
   - collaboration
-summary: Space Invaders: Educational Group Exercise, a simple game created by some undergraduate CS students and a mentor for the purpose of experience and learning. 
+summary: Space Invaders: Educational Group Exercise
 ---
 
 [<img class="ui medium right floated rounded image" src="../images/heralogo.png">](http://kokua.crdg.hawaii.edu/hera/heraForm.html)
