@@ -28,7 +28,7 @@ I had to work closely with the person working on the entities/objects, since I h
 
 In the end, we completed the game with full controller support, and even unique AI behavior. Iʻm pretty happy with the outcome, since at the time, I had little to no experience with Javascript or HTML. It was a great learning experience on how to use Github (especially collaboratively), the importance of communication, and just general Javascript and HTML.
 
-<div class="test"><b>[Click here to play!](https://izawan.github.io/SIEGE/)</b></div>
+<div class="textlinks"><a href="https://izawan.github.io/SIEGE/">Click here to play!</a></div>
 
 <b>Controls</b>
 
@@ -42,4 +42,4 @@ I - Move up<br>
 K - Move down<br>
 J - Shoot<br>
 
-<div class="textLnks"><a href="https://github.com/uhmlavalab/SIEGE"><i class="large github icon"></i>uhmlavalab/SIEGE</a></div>
+<div class="textlinks"><a href="https://github.com/uhmlavalab/SIEGE"><i class="large github icon"></i>uhmlavalab/SIEGE</a></div>
