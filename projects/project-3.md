@@ -32,14 +32,14 @@ In the end, we completed the game with full controller support, and even unique 
 
 <b>Controls</b>
 
-<u>Player 1 (left side)</u>
-W - Move up
-S - Move down
-D - Shoot
+<u>Player 1 (left side)</u><br>
+W - Move up<br>
+S - Move down<br>
+D - Shoot<br>
 
-<u>Player 2 (right side)</u>
-I - Move up
-K - Move down
-J - Shoot
+<u>Player 2 (right side)</u><br>
+I - Move up<br>
+K - Move down<br>
+J - Shoot<br>
 
 <a href="https://github.com/uhmlavalab/SIEGE"><i class="large github icon"></i>uhmlavalab/SIEGE</a>
