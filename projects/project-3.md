@@ -42,4 +42,4 @@ I - Move up<br>
 K - Move down<br>
 J - Shoot<br>
 
-<div id=projectLinks><a href="https://github.com/uhmlavalab/SIEGE"><i class="large github icon"></i>uhmlavalab/SIEGE</a></div>
+<a href="https://github.com/uhmlavalab/SIEGE"><i class="large github icon"></i>uhmlavalab/SIEGE</a>
