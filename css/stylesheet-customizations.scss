@@ -20,17 +20,32 @@ body {
   color: lighten(green, 10%);
 }
 
-#textlinks a:link {
+.textlinks a:link {
   color: green;
   font-weight: bold;
 }
 
-#textlinks a:visited {
+.textlinks a:visited {
   color: green;
   font-weight: bold;
 }
 
-#textlinks a:hover {
+.textlinks a:hover {
   color: darken(green, 5%);
   text-decoration: underline;
+}
+
+.networklinks a:link {
+  color: green;
+  font-weight: bold;
+}
+
+.networklinks a:visited {
+  color: green;
+  font-weight: bold;
+}
+
+.networklinks a:hover {
+  color: darken(green, 5%);
+  font-weight: bold;
 }
