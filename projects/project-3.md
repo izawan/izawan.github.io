@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/heralogo.png
 title: SIEGE
 permalink: projects/siege
 date: 2015
