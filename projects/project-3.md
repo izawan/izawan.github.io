@@ -10,7 +10,6 @@ labels:
   - HTML
   - Konva
   - video game
-  - collaboration
 summary: Space Invaders: Educational Group Exercise
 ---
 
