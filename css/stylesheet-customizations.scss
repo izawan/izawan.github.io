@@ -22,12 +22,15 @@ body {
 
 a:link {
   color: green;
+  font-weight: bold;
 }
 
 a:visited {
   color: green;
+  font-weight: bold;
 }
 
 a:hover {
   color: darken(green, 5%);
+  text-decoration: underline;
 }
