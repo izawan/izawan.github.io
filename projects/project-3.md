@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/heralogo.png
+image: images/micromouse.jpg
 title: SIEGE
 permalink: projects/siege
 date: 2015
@@ -9,8 +9,9 @@ labels:
   - Javascript
   - HTML
   - Konva
-  - video game
-summary: Space Invaders: Educational Group Exercise
+  - Video Games
+  - Collaboration
+summary: SIEGE - Space Invaders: Educational Group Exercise
 ---
 
 [<img class="ui medium right floated rounded image" src="../images/heralogo.png">](http://kokua.crdg.hawaii.edu/hera/heraForm.html)
