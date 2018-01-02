@@ -14,7 +14,7 @@ labels:
 summary: Space Invaders: Educational Group Exercise, a simple game created by some undergraduate CS students and a mentor for the purpose of experience and learning. 
 ---
 
-<!--<img class="ui medium right floated rounded image" src="../images/">-->
+[<img class="ui medium right floated rounded image" src="../images/heralogo.png">](http://kokua.crdg.hawaii.edu/hera/heraForm.html)
 
 SIEGE is a simple web-based video game inspired by the popular classic, Space Invaders. All assets are original content. Lead by Dylan Kobayashi, we worked together to create this game as an educational exercise. 
 
