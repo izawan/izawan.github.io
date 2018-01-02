@@ -20,10 +20,10 @@ body {
   color: lighten(green, 10%);
 }
 
-#links a:link {
+a:link {
   color: green;
 }
 
-#links a:hover {
+a:hover {
   color: darken(green, 5%);
 }
