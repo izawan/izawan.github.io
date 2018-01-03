@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/SIEGE_game.jpg
 title: SIEGE
 permalink: projects/siege
 date: 2015
@@ -13,8 +13,6 @@ labels:
   - Collaboration
 summary: SIEGE, the Space Invaders Educational Group Exercise
 ---
-
-[<img class="ui medium right floated rounded image" src="../images/heralogo.png">](http://kokua.crdg.hawaii.edu/hera/heraForm.html)
 
 SIEGE is a simple web-based video game inspired by the popular classic, Space Invaders. The twist is that there is one player on each side of the screen (designed for the CreaTable, one player on each side of the table). The goal is to not die first. 
 
@@ -29,6 +27,8 @@ I had to work closely with the person working on the entities/objects, since I h
 In the end, we completed the game with full controller support, and even unique AI behavior. Iʻm pretty happy with the outcome, since at the time, I had little to no experience with Javascript or HTML. It was a great learning experience on how to use Github (especially collaboratively), the importance of communication, and just general Javascript and HTML.
 
 <div class="textlinks"><a href="https://izawan.github.io/SIEGE/">Click here to play!</a></div><br>
+
+[<img class="ui image" src="../images/SIEGE_home.png">](https://izawan.github.io/SIEGE/)
 
 <b>Controls</b>
 
