@@ -29,20 +29,19 @@
   },
   "interests": [
     {
-      "name": "programming",
+      "name": "software development",
       "keywords": [
-        "application",
-        "development",
-        "software"
+        "programming",
+        "agile",
+        "architechture"
       ]
     },
     {
-      "name": "software design",
+      "name": "interface design",
       "keywords": [
-        "design",
         "UX",
         "UI",
-        "agile"
+        "accessibility"
       ]
     },
     {
