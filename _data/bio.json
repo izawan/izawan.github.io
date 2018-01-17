@@ -31,8 +31,8 @@
     {
       "name": "programming",
       "keywords": [
-        "creation",
-        "design",
+        "application",
+        "development",
         "software"
       ]
     },
@@ -41,18 +41,22 @@
       "keywords": [
         "design",
         "UX",
-        "UI"
+        "UI",
+        "agile"
       ]
     },
     {
       "name": "video games",
       "keywords": [
+        "game design",
+        "game theory",
         "eSports"
       ]
     },
     {
       "name": "technology",
       "keywords": [
+        "IoT",
         "virtual reality",
         "medtech"
       ]
@@ -63,11 +67,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
         "PHP",
+        "C++",
+        "C#",
+        "SQL",
+        "Prolog",
         "Common Lisp"
       ]
     },
@@ -75,9 +81,10 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Windows",
-        "Git/GitHub"
+        "Windows (XP+)",
+        "Macintosh (Mac OS X, OS X, macOS)",
+        "Linux (Ubuntu 16.04)",
+        "Git"
       ]
     }
   ],
