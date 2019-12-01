@@ -31,9 +31,9 @@
     {
       "name": "software development",
       "keywords": [
+        "programming",
         "agile",
-		"design",
-		"team"
+        "architechture"
       ]
     },
     {
@@ -43,6 +43,14 @@
         "game theory",
         "eSports"
       ]
+    },
+    {
+      "name": "technology",
+      "keywords": [
+        "IoT",
+        "virtual reality",
+        "medtech"
+      ]
     }
   ],
   "skills": [
@@ -50,12 +58,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        ".NET",
-        "C#",
-		"Javascript",
-		"Java",
+        "Java",
+        "Javascript",
         "PHP",
-        "C++"
+        "C++",
+        "C#",
+        "SQL",
+        "Prolog",
+        "Common Lisp"
       ]
     },
     {
@@ -82,19 +92,6 @@
     }
   ],
   "work": [
-	{
-      "company": "Decision Research Corporation",
-      "position": "Appication Developere (Full-time)",
-      "website": "https://www.decisionresearch.com/",
-      "startDate": "2018-09-03",
-      "endDate": "Present",
-      "summary": "DRC creates web-based insurance solutions for internal usage among clients in the homeowners and motor vehicle space. Using the .NET framework in C# and Javascript, my role at DRC was primarily driving new implementations with a full-stack approach to expand the reach of the system. Through an agile methodology, my team and I delivered new features and upgrades to the system efficiently. Extra responsibilities include general production support and mentoring of new hires.",
-      "highlights": [
-		"Full-stack development",
-        "Agile development"
-		"C#, .NET, Javascript, SQL"
-      ]
-    },
     {
       "company": "Curriculum Research & Development Group, College of Education",
       "position": "STEM Education Research Assistant (Part-time)",
@@ -103,7 +100,8 @@
       "endDate": "2018-05-07",
       "summary": "CRDG is an organized research unit in the College of Education at the University of Hawai‘i Mānoa. Currently working on a research project funded by the National Science Foundation that is aimed at broadening the Native Hawaiian Engineering faculty at UHM. Also helped with Hawaii GenCyber 2016 and created course resources for teacher education.",
       "highlights": [
-        "Data collection and analysis, transcription and analysis, graphic design, producing educational resources, and general clerical work"
+        "Collected and analyzed survey data, transcribed interviews, analyzed transcriptions, graphic design, and general clerical work",
+        "Created web-assets for the American Education Research Association (AERA)"
       ]
     },
     {
@@ -114,9 +112,35 @@
       "endDate": "2015-08-20",
       "summary": "LAVA (Laboratory for Advanced Visualization/Applications) is a lab run by Jason Leigh, a professor and researcher at the University of Hawai‘i at Manoa. Using cutting-edge technologies like the CyberCANOE, the HTC Vive, the Microsoft Hololens, and more, the lab aims to create developments in big data visualization techniques. During my time there, I contributed to a variety of projects using Javascript skills, video making/editing skills, and transcription skills.",
       "highlights": [
-        "Created high-quality video documentation for SAGE2 technology",
-        "Contributed to development of SIEGE, a simple video game for the CreaTable coded only in Javascript",
+        "Created high-quality video tutorials for SAGE2",
+        "Contributed to development of SIEGE, a simple video game for the CreaTable",
         "Transcribed lengthy clips for the Articulate project"
+      ]
+    },
+    {
+      "company": "University of Hawai‘i at Mānoa American Studies Department",
+      "position": "Clerical Assistant (Part-time)",
+      "website": "http://manoa.hawaii.edu/amst/",
+      "startDate": "2014-09-16",
+      "endDate": "2015-05-31",
+      "summary": "Provided clerical assistance for the American Studies Department at the University of Hawai‘i at Mānoa.",
+      "highlights": [
+        "Front desk operation (phone calls, inquiries)",
+        "Clerical duties (campus mail run, scanning/printing/faxing, lifting)",
+        "Managed student database (processed major applications, mail list)",
+        "Provided IT assistance for department faculty"
+      ]
+    },
+    {
+      "company": "KTM Services Inc.",
+      "position": "Summer Hire (Full-time)",
+      "website": "https://www.enjoysnacks.com/",
+      "startDate": "2013-05-20",
+      "endDate": "2013-07-14",
+      "summary": "KTM Services Inc. is the distributor for Enjoy Snacks, a very popular local brand in Hawai‘i.",
+      "highlights": [
+        "Packaged and sealed boxes of snacks in factory",
+        "Pulled and packaged orders of varying snacks from warehouse"
       ]
     }
   ],

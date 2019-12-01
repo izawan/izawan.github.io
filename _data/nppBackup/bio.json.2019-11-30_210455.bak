@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Nick Izawa",
-    "label": "Software Developer",
+    "label": "Entry Level Job Seeker",
     "picture": "https://izawan.github.io/images/profile.png",
     "email": "izawan@hawaii.edu",
     "phone": "",
     "website": "https://izawan.github.io",
-    "summary": "I am passionate about helping others. I find the best avenue for this is programming, as I was surrounded with technology from a young age. Whether I can create something practical, or just something that brings people joy; the ultimate satisfaction for me is seeing my work being used by others first-hand. I've always found myself to be most comfortable in front of a keyboard. It feels like I can do anything. I've grown up on the computer, playing games from a young age. It wasn't until I was almost finished with high school that I discovered programming, and even later until I found it was something I was passionate about. Problem-solving and challenges are exciting to me. I like to think of it like a puzzle in which I'm trying to solve to get to the next level. The more puzzles I solve, the better I get at it. For me, the reward is not just the accomplishment, but the honing of my craft. Combining these two passions, I'm left with a yearning to contribute to a project that will truly reach people. For a long time, all I wanted to do was design a game, but I've realized it's not the only thing I want to do. As long as my work can positively affect at least one person's life in some way, I deem it a success.",
+    "summary": "Currently pursuing a job in software development within the state of Hawaii after having attained a BS in Computer Science from the University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -31,9 +31,17 @@
     {
       "name": "software development",
       "keywords": [
+        "programming",
         "agile",
-		"design",
-		"team"
+        "architechture"
+      ]
+    },
+    {
+      "name": "interface design",
+      "keywords": [
+        "UX",
+        "UI",
+        "accessibility"
       ]
     },
     {
@@ -43,6 +51,14 @@
         "game theory",
         "eSports"
       ]
+    },
+    {
+      "name": "technology",
+      "keywords": [
+        "IoT",
+        "virtual reality",
+        "medtech"
+      ]
     }
   ],
   "skills": [
@@ -50,12 +66,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        ".NET",
-        "C#",
-		"Javascript",
-		"Java",
+        "Java",
+        "Javascript",
         "PHP",
-        "C++"
+        "C++",
+        "C#",
+        "SQL",
+        "Prolog",
+        "Common Lisp"
       ]
     },
     {
@@ -82,19 +100,6 @@
     }
   ],
   "work": [
-	{
-      "company": "Decision Research Corporation",
-      "position": "Appication Developere (Full-time)",
-      "website": "https://www.decisionresearch.com/",
-      "startDate": "2018-09-03",
-      "endDate": "Present",
-      "summary": "DRC creates web-based insurance solutions for internal usage among clients in the homeowners and motor vehicle space. Using the .NET framework in C# and Javascript, my role at DRC was primarily driving new implementations with a full-stack approach to expand the reach of the system. Through an agile methodology, my team and I delivered new features and upgrades to the system efficiently. Extra responsibilities include general production support and mentoring of new hires.",
-      "highlights": [
-		"Full-stack development",
-        "Agile development"
-		"C#, .NET, Javascript, SQL"
-      ]
-    },
     {
       "company": "Curriculum Research & Development Group, College of Education",
       "position": "STEM Education Research Assistant (Part-time)",
@@ -103,7 +108,8 @@
       "endDate": "2018-05-07",
       "summary": "CRDG is an organized research unit in the College of Education at the University of Hawai‘i Mānoa. Currently working on a research project funded by the National Science Foundation that is aimed at broadening the Native Hawaiian Engineering faculty at UHM. Also helped with Hawaii GenCyber 2016 and created course resources for teacher education.",
       "highlights": [
-        "Data collection and analysis, transcription and analysis, graphic design, producing educational resources, and general clerical work"
+        "Collected and analyzed survey data, transcribed interviews, analyzed transcriptions, graphic design, and general clerical work",
+        "Created web-assets for the American Education Research Association (AERA)"
       ]
     },
     {
@@ -114,9 +120,35 @@
       "endDate": "2015-08-20",
       "summary": "LAVA (Laboratory for Advanced Visualization/Applications) is a lab run by Jason Leigh, a professor and researcher at the University of Hawai‘i at Manoa. Using cutting-edge technologies like the CyberCANOE, the HTC Vive, the Microsoft Hololens, and more, the lab aims to create developments in big data visualization techniques. During my time there, I contributed to a variety of projects using Javascript skills, video making/editing skills, and transcription skills.",
       "highlights": [
-        "Created high-quality video documentation for SAGE2 technology",
-        "Contributed to development of SIEGE, a simple video game for the CreaTable coded only in Javascript",
+        "Created high-quality video tutorials for SAGE2",
+        "Contributed to development of SIEGE, a simple video game for the CreaTable",
         "Transcribed lengthy clips for the Articulate project"
+      ]
+    },
+    {
+      "company": "University of Hawai‘i at Mānoa American Studies Department",
+      "position": "Clerical Assistant (Part-time)",
+      "website": "http://manoa.hawaii.edu/amst/",
+      "startDate": "2014-09-16",
+      "endDate": "2015-05-31",
+      "summary": "Provided clerical assistance for the American Studies Department at the University of Hawai‘i at Mānoa.",
+      "highlights": [
+        "Front desk operation (phone calls, inquiries)",
+        "Clerical duties (campus mail run, scanning/printing/faxing, lifting)",
+        "Managed student database (processed major applications, mail list)",
+        "Provided IT assistance for department faculty"
+      ]
+    },
+    {
+      "company": "KTM Services Inc.",
+      "position": "Summer Hire (Full-time)",
+      "website": "https://www.enjoysnacks.com/",
+      "startDate": "2013-05-20",
+      "endDate": "2013-07-14",
+      "summary": "KTM Services Inc. is the distributor for Enjoy Snacks, a very popular local brand in Hawai‘i.",
+      "highlights": [
+        "Packaged and sealed boxes of snacks in factory",
+        "Pulled and packaged orders of varying snacks from warehouse"
       ]
     }
   ],
