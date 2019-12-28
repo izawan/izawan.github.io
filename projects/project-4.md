@@ -19,8 +19,10 @@ Shootz is a pet project I maintain on the side for my personal Discord server. W
 
 The bot also interfaces with a local SQLite database to store data, such as timers, currency, etc. I'm currently planning on widening the scope of it to be a bit more universal, as the niche it filled is no longer needed.
 
-The name comes from the popular Hawai'i slang "shootz!", which basically means "alright", or as a way to say bye.
+Initially, I had been hosting it on an AWS EC2 Ubuntu server for about a year before my free trial expired. To avoid paying a maintenence fee, I moved it to a Raspberry Pi that I can easily SSH or remote into to update code. 
+
+The name Shootz comes from the popular Hawai'i slang "shootz!", which basically means "alright", or as a way to say bye. 
 
 You can add it to your own Discord server by clicking the image below!
 
-[<img class="ui image" src="../images/shootz.png">](https://discordapp.com/api/oauth2/authorize?client_id=467083715453911041&permissions=0&scope=bot)
+[<img class="ui image" src="../images/Shootz_Icon.png">](https://discordapp.com/api/oauth2/authorize?client_id=467083715453911041&permissions=0&scope=bot)
