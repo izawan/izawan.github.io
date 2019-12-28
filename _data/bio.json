@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nick Izawa",
     "label": "Software Developer",
-    "picture": "https://izawan.github.io/images/profile.png",
+    "picture": "https://izawan.github.io/images/profile.JPG",
     "email": "izawan@hawaii.edu",
     "phone": "",
     "website": "https://izawan.github.io",
@@ -31,9 +31,8 @@
     {
       "name": "software development",
       "keywords": [
-        "agile",
-		"design",
-		"team"
+        "programming",
+		    "agile"
       ]
     },
     {
@@ -51,8 +50,8 @@
       "keywords": [
         ".NET",
         "C#",
-		"Javascript",
-		"Java",
+		    "Javascript",
+		    "Java",
         "PHP",
         "C++"
       ]
@@ -62,9 +61,10 @@
       "level": "",
       "keywords": [
         "Windows (XP+)",
-        "Macintosh (Mac OS X, OS X, macOS)",
         "Linux (Ubuntu)",
-        "Git"
+        "Git",
+        "Visual Studio",
+        "Unity"
       ]
     }
   ],
@@ -89,9 +89,9 @@
       "endDate": "Present",
       "summary": "DRC creates web-based insurance solutions for internal usage among clients in the homeowners and motor vehicle space. Using the .NET framework in C# and Javascript, my role at DRC was primarily driving new implementations with a full-stack approach to expand the reach of the system. Through an agile methodology, my team and I delivered new features and upgrades to the system efficiently. Extra responsibilities include general production support and mentoring of new hires.",
       "highlights": [
-		"Full-stack development",
+		    "Full-stack development",
         "Agile development",
-		"C#, .NET, Javascript, SQL"
+		    "C#, .NET, Javascript, SQL"
       ]
     },
     {
