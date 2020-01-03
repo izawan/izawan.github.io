@@ -6,7 +6,7 @@
     "email": "izawan@hawaii.edu",
     "phone": "",
     "website": "https://izawan.github.io",
-    "summary": "I am passionate about helping others. I find the best avenue for this is programming, as I was surrounded with technology from a young age. Whether I can create something practical, or just something that brings people joy; the ultimate satisfaction for me is seeing my work being used by others first-hand. I've always found myself to be most comfortable in front of a keyboard. It feels like I can do anything. I've grown up on the computer, playing games and browsing the internet. It wasn't until I was almost finished with high school that I discovered programming, and even later until I found it was something I was passionate about. Problem-solving and challenges are exciting to me. I like to think of it like a puzzle in which I'm trying to solve to get to the next level. The more puzzles I solve, the better I get at it. For me, the reward is not just the accomplishment, but the honing of my craft. Combining these two passions, I'm left with a yearning to contribute to a project that will truly reach people. For a long time, all I wanted to do was design a game, but I've realized it's not the only thing I want to do. As long as my work can positively affect at least one person's life in some way, I deem it a success.",
+    "summary": "I am passionate about helping others. I find the best avenue for this is programming, as I was surrounded with technology from a young age. Whether I can create something practical, or just something that brings people joy; the ultimate satisfaction for me is seeing my work being used by others first-hand. I've always found myself to be most comfortable in front of a keyboard. It feels like I can do anything. I've grown up on the computer, playing games and browsing the internet. It wasn't until I was almost finished with high school that I discovered programming, and even later until I found it was something I was passionate about. Problem-solving and challenges are exciting to me. I like to think of it like a puzzle in which I'm trying to solve to get to the next level. The more puzzles I solve, the better I get at it. For me, the reward is not just the accomplishment, but the honing of my craft. Combining these two passions, I'm left with a yearning to contribute to a project that will truly reach people. As long as my work can positively affect at least one person's life in some way, I deem it a success.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -36,10 +36,10 @@
       ]
     },
     {
-      "name": "game design",
+      "name": "healthtech",
       "keywords": [
-        "game theory",
-        "eSports"
+        "medicine",
+		    "healthcare"
       ]
     }
   ],
