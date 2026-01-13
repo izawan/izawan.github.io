@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Nick Izawa",
-    "label": "Software Engineer",
+    "label": "Tech Lead",
     "picture": "https://izawan.github.io/images/IMG_0986.jpeg",
     "email": "izawan@hawaii.edu",
     "phone": "",
@@ -40,6 +40,13 @@
       "keywords": [
         "leadership",
 		"mentorship"
+      ]
+    },
+	{
+      "name": "gaming",
+      "keywords": [
+        "game theory",
+		"game design"
       ]
     }
   ],
