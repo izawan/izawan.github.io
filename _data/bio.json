@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Nick Izawa",
-    "label": "Software Developer",
-    "picture": "https://izawan.github.io/images/profile.jpeg",
+    "label": "Software Engineer",
+    "picture": "https://izawan.github.io/images/IMG_0986.jpeg",
     "email": "izawan@hawaii.edu",
     "phone": "",
     "website": "https://izawan.github.io",
-    "summary": "I am passionate about helping others. I find the best avenue for this is programming, as I was surrounded with technology from a young age. Whether I can create something practical, or just something that brings people joy; the ultimate satisfaction for me is seeing my work being used by others first-hand. I've always found myself to be most comfortable in front of a keyboard. It feels like I can do anything. I've grown up on the computer, playing games and browsing the internet. It wasn't until I was almost finished with high school that I discovered programming, and even later until I found it was something I was passionate about. Problem-solving and challenges are exciting to me. I like to think of it like a puzzle in which I'm trying to solve to get to the next level. The more puzzles I solve, the better I get at it. For me, the reward is not just the accomplishment, but the honing of my craft. Combining these two passions, I'm left with a yearning to contribute to a project that will truly reach people. As long as my work can positively affect at least one person's life in some way, I deem it a success.",
+    "summary": "Engineer, Leader, Gamer.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "software development",
+      "name": "software engineering",
       "keywords": [
         "programming",
-		    "agile"
+		"agile"
       ]
     },
     {
-      "name": "healthtech",
+      "name": "management",
       "keywords": [
-        "medicine",
-		    "healthcare"
+        "leadership",
+		"mentorship"
       ]
     }
   ],
@@ -50,10 +50,8 @@
       "keywords": [
         ".NET",
         "C#",
-		    "Javascript",
-		    "Java",
-        "PHP",
-        "C++"
+		"Javascript",
+        "SQL"
       ]
     },
     {
@@ -61,7 +59,7 @@
       "level": "",
       "keywords": [
         "Windows (XP+)",
-        "Linux (Ubuntu)",
+        "SSMS",
         "Git",
         "Visual Studio",
         "Unity"
@@ -81,6 +79,19 @@
     }
   ],
   "work": [
+	  {
+      "company": "Majesco",
+      "position": "Tech Lead",
+      "website": "https://www.majesco.com/",
+      "startDate": "2013-01-01",
+      "endDate": "Present",
+      "summary": "Majesco creates web-based insurance solutions for clients across multiple insurance sectors. My role at Majesco is to ensure a quality product is delivered by my team. I lead daily scrums and manage a large team of developers, and also resolve critical production issues late in the sprint. Extra responsibilities include release delivery support, production support, and mentorship of new developers.",
+      "highlights": [
+		    "Full-stack development",
+        "Agile development",
+		    "C#, .NET, Javascript, SQL"
+      ]
+    },
 	{
       "company": "Decision Research Corporation",
       "position": "Appication Developer (Full-time)",
